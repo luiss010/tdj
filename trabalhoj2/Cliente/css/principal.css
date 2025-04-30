@@ -1,0 +1,131 @@
+* {
+    font-family: Poppins;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+    margin-right: 100px;
+}
+.header {
+    position: relative;
+   align-items: center;
+    width: 55%;
+    height: 95%;
+    padding-top: 20px; 
+    cursor: pointer;
+    font-weight: 500;
+}
+.corpo {
+width: 0vh;
+height: 0vh;
+padding-bottom: 00px;
+
+}
+.back {
+    background: linear-gradient(to bottom, rgb(201, 101, 101), rgb(185, 54, 54),rgb(235, 32, 32));
+    width: 100vw;
+    height: 100vh;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 0 95%);
+    padding: 0px;
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+}
+.papa {
+    padding-top: 20%;
+    font-weight: 900;
+}
+.p {
+    font-size: 20px;
+    font-weight: 200;
+} 
+.bot1 {
+    color: rgb(235, 32, 32);
+    background-color: antiquewhite;
+    border: none;
+    width: 50vh;
+    height: 30px;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.bot1:hover {
+    background-color: rgb(224, 214, 199);
+    color: rgb(133, 13, 13);
+    transition: 0.10s;
+}
+li:hover {
+    color: rgb(203, 221, 236);
+}
+.logout-menu {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+.d-none {
+    display: none;
+}
+.cp {
+    text-align: center;
+    padding: 40px 20px 20px;
+    background-color: #fff;
+ 
+  }
+  
+  .cp h1 {
+    font-size: 28px;
+    margin: 0;
+  }
+  
+  .info {
+    padding-bottom: 2000px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px 20px;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+  }
+  
+  .item {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 280px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .item h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #1a73e8;
+  }
+  
+  .item P {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+  }
+.pipi {
+    padding-bottom: 5;
+    color: rgb(153, 68, 68);
+    font-weight: 800;
+}
+.bu {
+    background-color: rgb(196, 41, 41);
+    border: none;
+    padding: 5px;
+    color: #ffffff;
+}
+.baixo {
+    border-color: rgb(80, 9, 9);
+}

@@ -1,0 +1,77 @@
+use (ana.silva@gmail.com / senhaA123!) para testar cliente
+use (marie.curie@gmail.com / Curie!1234) para testar tecnico
+
+<--versão 10/04 - Eudes-->
+
+painel.html - removido
+
+painel.php - adicionado
+
+entrar.php - funcionando
+
+conexão.php - adiocionado
+
+servikris - removido
+
+PERIGO.php - adicionado
+obs:Não execute PERIGO.php, a menos que o banco de dados ainda não tenha as senhas atualizadas para o formato hash
+
+<--versão 11/04 - Eudes-->
+
+backupcomhash.sql - alterado
+-> Agora os email estão como @gmail.com
+
+hubcliente.php - adicionado
+
+hubcliente.php - removido
+
+principal.html - removido
+
+principal.php - adicionado
+-> Agora com principal.php, operações feitas em php poderão ser executadas dentro do próprio arquivo
+
+conexão.php - alterado
+-> Agora ele também verifica o tipo de usuário, centralizando o código, além de enviar para o principal.php
+
+entrar.php - alterado
+-> Faz menos coisas
+
+reutilizável.php - adicionado
+obs: Confira o arquivo
+
+<-versão 12/04 - Eudes -->
+
+cadastro.php - adicionado
+
+cadastro.html - removido
+
+<-- versão 14/04 - Eudes/Luis>
+
+Soliti.php - adicionado
+
+conexão.php - alterado
+
+Solicitiçao.php - adicionado
+
+<-- versão 15/04 - Eudes -->
+
+Solit.php - adicionado
+
+aceitar_serviço - adicionado
+
+<-- versãp 17/04 - 18/04 - Eudes -->
+
+Organização de pastas
+
+
+
+A fazer: 
+1.Formatar TODAS as páginas
+2.Terminar funcionais para cliente e funcionario
+
+
+
+
+
+
+

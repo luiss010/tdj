@@ -1,0 +1,20 @@
+.name {
+    padding-bottom: 10px;
+    margin-left: 280px;
+    padding: 10px;
+    color: rgb(197, 59, 59);
+    font-weight: 700;
+}
+.bot {
+    color: brown;
+    background-color: rgba(201, 153, 153, 0.582);
+    border: none;
+}
+.mb {
+    color: rgb(197, 59, 59);
+    font-weight: 700;
+}
+.container{
+    border-radius: 2px;
+    padding: 10px;
+}
